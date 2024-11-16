@@ -1,1 +1,1 @@
-data:text/html,<script>alert('Hello, World!')</script>
+data:text/html,<svg onload=alert()>
